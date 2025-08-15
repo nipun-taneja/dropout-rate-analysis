@@ -68,7 +68,7 @@ Optimal dropout ≈ **0.5–0.6** → Test Accuracy ~ **59.2%**
 ## How to Run
 Run in **Google Colab**:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nipun-taneja/dropout-rate-analysis/blob/main/Dropout_Experiments.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nipun-taneja/dropout-rate-analysis/blob/main/dropout_rate_analysis.ipynb)
 
 ---
 
